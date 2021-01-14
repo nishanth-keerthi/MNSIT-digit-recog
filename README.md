@@ -1,1 +1,1 @@
-# MNSIT-digit-recog
+#This is a digit recognition system which splits the MNSIT dataset containing  42,000 scanned images(28x28) in a .csv file with labels mapping to each file.We use K nearest Neighbour algorithm to map it to the nearest identical number and then print the value,match it and verify if its running properly.
